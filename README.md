@@ -22,7 +22,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iiSwappy&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iiSwappy&label=Profile%20Views&color=8&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iiSwxppy) 
