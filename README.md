@@ -19,6 +19,6 @@ About Me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiswappy&show_icons=true&theme=dark&locale=en" alt="iiswappy" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiswappy&show_icons=true&theme=dark&locale=en&layout=compact" alt="iiswappy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiswappy&theme=dark" alt="iiswappy" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiswappy&show_icons=true&theme=dark&locale=en&layout=compact" alt="iiswappy" /></p>
