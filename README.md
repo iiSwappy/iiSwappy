@@ -6,8 +6,6 @@ About Me
 
 - 📫 How to reach me **iisweppy@gmail.com**
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiswappy&label=Views&color=00ff04&style=plastic" alt="iiswappy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiswappy" alt="iiswappy" /></a> </p>
