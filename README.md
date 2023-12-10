@@ -1,7 +1,6 @@
 About Me
 
 - 🔭 I’m currently working on **vLife.gg Roleplay Server**
-
 - 📫 How to reach me **iisweppy@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiswappy&label=Views&color=00ff04&style=plastic" alt="iiswappy" /> </p>
