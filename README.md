@@ -8,15 +8,6 @@ Full-stack developer. Backend-leaning. Based in Romania.
 
 ---
 
-## Currently
-
-- Backend C# (.NET 8) for slot/game engines — RNG, PAR sheets, RTP math, GLI-16 compliance
-- **BlocSmart** — housing association management platform (C# · Next.js · Flutter · PostgreSQL · Redis · MinIO)
-- Self-hosted infrastructure on Proxmox
-- Game development in Unity, Unreal Engine 5, and Blender
-
----
-
 ## Stack
 
 ### Languages
