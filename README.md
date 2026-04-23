@@ -94,11 +94,7 @@ Full-stack developer. Backend-leaning. Based in Romania.
 ## Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiswappy&show_icons=true&theme=dark&locale=en&hide_border=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiswappy&theme=dark&hide_border=true" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiswappy&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="top-langs" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiswappy&theme=darkhub&no-frame=true" alt="trophies" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iiswappy&show_icons=true&theme=dark&locale=en&hide_border=true&card_width=410" alt="stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iiswappy&theme=dark&hide_border=true&card_width=340" alt="streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiswappy&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&card_width=300" alt="top-langs" />
 </p>
